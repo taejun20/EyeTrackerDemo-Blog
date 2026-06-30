@@ -1,0 +1,71 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+
+# Unity crash and profiler data
+*.stackdump
+*.traceevents
+*.raw
+
+# Asset store / exported packages
+*.unitypackage
+*.unitypackage.meta
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE/editor folders
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Rider
+.idea/
+*.sln.DotSettings.user
+
+# Visual Studio cache
+.vsconfig
+
+# Plastic SCM / Collab transient files
+.collabignore
+*.collabignore
+
+# Addressables / streaming build cache
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+[Aa]ssets/[Ss]treaming[Aa]ssets/aa.meta
+[Aa]ssets/[Ss]treaming[Aa]ssets/aa/
+
+# Keep Unity metadata tracked. Do not ignore *.meta.
