@@ -65,3 +65,19 @@ Desktop.ini
 **/[Aa]ssets/[Ss]treaming[Aa]ssets/aa/
 
 # Keep Unity metadata tracked. Do not ignore *.meta.
+
+# Xcode
+**/.xcodeproj/
+**/.xcworkspace/
+**/xcuserdata/
+**/DerivedData/
+**/Build/
+**/*.xcarchive
+**/*.dSYM/
+**/.swiftpm/
+**/.build/
+**/Package.resolved
+**/*.pbxuser
+**/*.perspective
+**/*.perspectivev3
+**/*xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
