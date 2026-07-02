@@ -18,5 +18,4 @@ class AppModel {
         case open
     }
     var immersiveSpaceState = ImmersiveSpaceState.open
-    var shouldOpenImmersiveSpace = true
 }
